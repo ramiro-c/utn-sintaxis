@@ -1,3 +1,3 @@
 # Repositorio utn-sintaxis
 
-Material de la materia SIntaxis y semantica de los lenguajes | UTN - FRLP 
+Material realizado en la materia Sintaxis y semantica de los lenguajes | UTN - FRLP 
